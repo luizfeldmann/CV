@@ -28,7 +28,7 @@ Institution | Degree
 Company | Info
 :-|:-
 **AEL Sistemas**    | Porto Alegre, Brazil
-Mar/23 - now        | Design of user interfaces in Qt and development of libraries for control of video conversion hardware.
+Mar/23 - now        | Development of software for military aviation training and simulation in *C++*.
 **Elbit Systems**   | Netanya, Israel
 Mar/22 - Mar/23     | Development of software for military aviation training and simulation in *C++*.
 **AEL Sistemas**    | Porto Alegre, Brazil
