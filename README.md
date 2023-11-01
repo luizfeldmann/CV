@@ -21,7 +21,7 @@ Institution | Degree
 2015 - 2020 | Bachelor’s degree in *Mechanical Engineering*
 2021 - 2022 | Postgraduate degree in *Human Resources Management*
 **UFRGS**   | **Federal University of Rio Grande do Sul**
-2015 - now  | Bachelor’s degree in *Electrical Engineering*
+2015 - 2023 | Bachelor’s degree in *Electrical Engineering*
 
 ## Experience
 
